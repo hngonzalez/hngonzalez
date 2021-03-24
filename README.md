@@ -4,4 +4,4 @@
 
 - 🔭 I’m currently working as Full Stack Developer
 
-## Technologies
+## :computer: Technologies
